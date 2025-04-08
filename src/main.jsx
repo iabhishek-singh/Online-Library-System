@@ -7,11 +7,8 @@ import LandingPage from './components/LandingPage.jsx';
 import { Error } from "./components/Error.jsx"
 import BookDetails from './components/BookDetails.jsx'
 import BrowseBook from './components/BrowseBooks.jsx';
-import AddBook from "./components/AddBook.jsx"
-// import Book from './components/Book.jsx'
-// import BookList from './components/BookList.jsx'
-import CategoryBook from './components/CategoryBook.jsx'
-// Routing Configrurations
+import AddBook from "./components/AddBook.jsx";
+import CategoryBook from './components/CategoryBook.jsx';
 
 const appRouter = createBrowserRouter([
   {

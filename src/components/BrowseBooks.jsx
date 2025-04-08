@@ -3,7 +3,6 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import "./browseBooks.css"
 import { useSelector } from "react-redux";
-// import BookList from "./BookList";
 
 
 function BrowseBook() {

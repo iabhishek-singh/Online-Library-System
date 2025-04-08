@@ -1,6 +1,8 @@
-/* .inputeBoxs:hover{
-    border: 2px gold;
-} */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
 .searchBook{
     margin: 20px;
     display: flex;
