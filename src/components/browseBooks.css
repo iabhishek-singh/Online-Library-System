@@ -1,0 +1,64 @@
+/* .inputeBoxs:hover{
+    border: 2px gold;
+} */
+.searchBook{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    
+}
+.inputeBoxs{
+    font-size: 20px;
+    color: chocolate;
+    font-weight: bold;
+}
+.bookCard{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+    text-align: center;
+    /* border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+    transition: transform 0.5s;
+    overflow: hidden; */
+    
+}
+.bookdeatalis{
+    width: 350px;
+    height: 600px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
+    transition: transform 0.5s;
+    overflow: hidden;
+    margin: 10px;
+    padding: 10px;    
+}
+.bookCover{
+    width: 100%;
+    height: 250px;
+    border-top-left-radius: 5px; 
+    border-top-right-radius: 5px;
+}
+.booktitle {
+    font-size: 1em;
+}
+
+.bookauthor {
+    font-size: 0.9em;
+    color: #555;
+}
+
+.book-description {
+    color: #777;
+}
+
+.book-deatalis {
+    padding: 10px;
+
+}
